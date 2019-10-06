@@ -1,9 +1,8 @@
 # Fashion-GAN
 GAN using Fashion MNIST to creeate new images
-
 ![Example](https://github.com/Stefan850/Fashion-GAN/blob/master/example.png)
 
-For more information about Fashion Mnist: [Link](https://github.com/zalandoresearch/fashion-mnist)
+For more information about Fashion MNIST: [Link](https://github.com/zalandoresearch/fashion-mnist)
 
 ## Getting Started
  - Install all dependencies
